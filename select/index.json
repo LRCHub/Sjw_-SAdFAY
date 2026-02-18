@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "JAM",
+  "base_artist": "THE YELLOW MONKEY",
+  "createdAt": "2026-02-18T08:16:14.499262Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Iko Iko (My Bestie) [feat. Small Jam]",
+      "artist": "Justin Wellington feat. Pedro Capó & Small Jam",
+      "has_synced": true,
+      "path": "select/01_Iko_Iko_(My_Bestie)_[feat._Small_Jam]_Justin_Wellington_feat._Pedro_Capó_&_Small_Jam.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Her & I (Slow Jam II)",
+      "artist": "King Gizzard & The Lizard Wizard",
+      "has_synced": true,
+      "path": "select/02_Her_&_I_(Slow_Jam_II)_King_Gizzard_&_The_Lizard_Wizard.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Her & I (Slow Jam II)",
+      "artist": "King Gizzard and the Lizard Wizard",
+      "has_synced": true,
+      "path": "select/03_Her_&_I_(Slow_Jam_II)_King_Gizzard_and_the_Lizard_Wizard.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Her And I (Slow Jam 2)",
+      "artist": "King Gizzard & The Lizard Wizard",
+      "has_synced": true,
+      "path": "select/04_Her_And_I_(Slow_Jam_2)_King_Gizzard_&_The_Lizard_Wizard.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Slow Jam 1",
+      "artist": "King Gizzard & The Lizard Wizard",
+      "has_synced": false,
+      "path": "select/05_Slow_Jam_1_King_Gizzard_&_The_Lizard_Wizard.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Slow Jam 1",
+      "artist": "King Gizzard and the Lizard Wizard",
+      "has_synced": true,
+      "path": "select/06_Slow_Jam_1_King_Gizzard_and_the_Lizard_Wizard.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Jam Man",
+      "artist": "Chet Atkins",
+      "has_synced": false,
+      "path": "select/07_Jam_Man_Chet_Atkins.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Jam Man (Album Version)",
+      "artist": "Chet Atkins",
+      "has_synced": false,
+      "path": "select/08_Jam_Man_(Album_Version)_Chet_Atkins.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "The Jam",
+      "artist": "The Cadillac Three",
+      "has_synced": true,
+      "path": "select/09_The_Jam_The_Cadillac_Three.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Intro Jam",
+      "artist": "Salt-N-Pepa",
+      "has_synced": false,
+      "path": "select/10_Intro_Jam_Salt-N-Pepa.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Jam",
+      "artist": "A Tribe Called Quest",
+      "has_synced": false,
+      "path": "select/11_Jam_A_Tribe_Called_Quest.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Jam-Master Jay",
+      "artist": "Run-DMC",
+      "has_synced": true,
+      "path": "select/12_Jam-Master_Jay_Run-DMC.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Smudos Traffic Beatbox Jam",
+      "artist": "Fettes Brot",
+      "has_synced": false,
+      "path": "select/13_Smudos_Traffic_Beatbox_Jam_Fettes_Brot.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "D.'s Car Jam / Anxious Mo-Fo",
+      "artist": "Minutemen",
+      "has_synced": true,
+      "path": "select/14_D.'s_Car_Jam___Anxious_Mo-Fo_Minutemen.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "D's Car Jam\u0000Anxious Mo-Fo",
+      "artist": "Minutemen",
+      "has_synced": true,
+      "path": "select/15_D's_Car_Jam\u0000Anxious_Mo-Fo_Minutemen.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Go (Jam & Spoon in dub mix)",
+      "artist": "Moby",
+      "has_synced": false,
+      "path": "select/16_Go_(Jam_&_Spoon_in_dub_mix)_Moby.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Jam",
+      "artist": "Michael Jackson",
+      "has_synced": true,
+      "path": "select/17_Jam_Michael_Jackson.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "JAM",
+      "artist": "THE YELLOW MONKEY",
+      "has_synced": false,
+      "path": "select/pl_01_JAM_THE_YELLOW_MONKEY.txt"
+    }
+  ]
+}
